@@ -11,7 +11,7 @@
 			"name": "server",
 			"image": "shashi1/multi-server",
 			"hostname": "api",
-			"essential": false
+			"essential": false,
             "memory": 128
 		},
 		{
